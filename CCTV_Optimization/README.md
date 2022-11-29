@@ -19,13 +19,13 @@
 
 ## Details
 
- <img width="50%" src="README\details1.png"/>
+ <img width="80%" src="README\details1.png"/>
 
 <br>
 
- <img width="50%" src="README\details2.png"/>
+ <img width="80%" src="README\details2.png"/>
 
 <br>
 
- <img width="50%" src="README\details3.png"/>
+ <img width="80%" src="README\details3.png"/>
  
